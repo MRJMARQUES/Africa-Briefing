@@ -12,14 +12,14 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Sep 2026 14:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:10:32 GMT</lastBuildDate>
     <item>
       <title>Africa Briefing - Monday 7 September 2026</title>
-      <description>Strategic brief plus the wider continent: Congo tightens cobalt, Gulf capital moves into African power, and the UN redraws the map.</description>
-      <pubDate>Mon, 07 Sep 2026 14:54:24 GMT</pubDate>
+      <description>Congo caps cobalt exports; Gulf capital backs African data centres and power; UN promotes the Equal Earth map; plus health, agriculture and trade.</description>
+      <pubDate>Mon, 07 Sep 2026 15:10:30 GMT</pubDate>
       <guid isPermaLink="false">Africa-Briefing-2026-09-07.mp3</guid>
-      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-07.mp3" length="1934352" type="audio/mpeg"/>
-      <itunes:duration>322</itunes:duration>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-07.mp3" length="1494288" type="audio/mpeg"/>
+      <itunes:duration>249</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
