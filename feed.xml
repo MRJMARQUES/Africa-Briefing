@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa Daily Briefing</title>
+    <link>https://mrjmarques.github.io/Africa-Briefing/</link>
+    <language>en-gb</language>
+    <description>A daily strategic and continental news briefing for Joao Marques. Auto-generated.</description>
+    <itunes:author>Africa Daily Briefing</itunes:author>
+    <itunes:summary>Daily audio briefing on African geopolitics, energy, business and the wider continent.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
+    <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
+    <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 07 Sep 2026 14:54:25 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Monday 7 September 2026</title>
+      <description>Strategic brief plus the wider continent: Congo tightens cobalt, Gulf capital moves into African power, and the UN redraws the map.</description>
+      <pubDate>Mon, 07 Sep 2026 14:54:24 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-09-07.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-07.mp3" length="1934352" type="audio/mpeg"/>
+      <itunes:duration>322</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
