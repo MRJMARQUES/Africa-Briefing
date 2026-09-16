@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 08:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:39:12 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Wednesday 16 September 2026</title>
+      <description>US-South Africa visa row, a US-Rwanda tungsten venture, JPMorgan's new frontier bond index, DR Congo protests and more.</description>
+      <pubDate>Wed, 16 Sep 2026 06:39:11 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-09-16.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-16.mp3" length="1427781" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Tuesday 15 September 2026</title>
       <description>Full version - Algeria cuts UAE ties; Dangote launches Africa's largest IPO; Solar Industries buys Omnia; MTN Nigeria hits 100m subscribers.</description>
