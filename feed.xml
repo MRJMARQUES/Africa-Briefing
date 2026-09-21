@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 08:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:25:58 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Monday 21 September 2026</title>
+      <description>Africa's UN Security Council seat push at UNGA 81; TotalEnergies raises 1.8bn dollars from GIP; Amnesty on M23 minerals; Afreximbank-DBSA facility; cocoa slumps; plus Ebola, trade, aviation and telecoms.</description>
+      <pubDate>Mon, 21 Sep 2026 07:25:57 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-09-21.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-21.mp3" length="1500333" type="audio/mpeg"/>
+      <itunes:duration>375</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Thursday 17 September 2026</title>
       <description>US backs African digital infrastructure; DRC's first solar baseload plant; Kenya's Safaricom-Vodacom sale voided; US-South Africa visa row deepens.</description>
