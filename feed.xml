@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 08:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:15:30 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Tuesday 29 September 2026</title>
+      <description>Ethiopia's Alamata falls to pro-government forces; Ruto and the Lamu refinery; Kenya's debt swap; African energy finance; wider-continent round-up.</description>
+      <pubDate>Tue, 29 Sep 2026 07:15:28 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-09-29.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-09-29.mp3" length="1641933" type="audio/mpeg"/>
+      <itunes:duration>410</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Monday 28 September 2026</title>
       <description>Ethiopia's Tigray war widens, US denies Sudan's Burhan a UN visa, South Africa mass shootings and a critical minerals pitch, DRC Ebola toll climbs, plus the wider continent.</description>
