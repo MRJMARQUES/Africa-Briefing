@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 07:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:45:58 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Thursday 1 October 2026</title>
+      <description>South Africa air traffic control cyberattack, second US ambassador summons, Turkish Airlines exits five African capitals, Dangote Lamu refinery update, global cholera toll.</description>
+      <pubDate>Thu, 01 Oct 2026 08:45:56 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-01.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-01.mp3" length="1185837" type="audio/mpeg"/>
+      <itunes:duration>296</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Tuesday 29 September 2026</title>
       <description>Ethiopia's Alamata falls to pro-government forces; Ruto and the Lamu refinery; Kenya's debt swap; African energy finance; wider-continent round-up.</description>
