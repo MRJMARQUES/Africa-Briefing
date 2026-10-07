@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 07:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:27:50 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Wednesday 7 October 2026</title>
+      <description>Kenya confirms first Ebola case; Zambia nears US health deal; DP World's $7bn Ogun port; Barrick's North Mara licences; Kenya EV deal.</description>
+      <pubDate>Wed, 07 Oct 2026 08:27:48 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-07.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-07.mp3" length="1220013" type="audio/mpeg"/>
+      <itunes:duration>305</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Friday 2 October 2026</title>
       <description>Ethiopia-Eritrea diplomatic rupture, Nigeria-US minerals framework scrutiny, MTN-IHS deal clears competition regulator, Scatec begins Egypt wind build.</description>
