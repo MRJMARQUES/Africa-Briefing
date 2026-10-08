@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 08:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:15:04 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Thursday 8 October 2026</title>
+      <description>Eritrean troops in Tigray, Senegal's AFCON appeal at CAS, Chevron's Lotus deal in Egypt, Eskom's 6 GW renewables search, and a wider-continent round-up.</description>
+      <pubDate>Thu, 08 Oct 2026 07:15:02 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-08.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-08.mp3" length="1176621" type="audio/mpeg"/>
+      <itunes:duration>294</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Wednesday 7 October 2026</title>
       <description>Kenya confirms first Ebola case; Zambia nears US health deal; DP World's $7bn Ogun port; Barrick's North Mara licences; Kenya EV deal.</description>
