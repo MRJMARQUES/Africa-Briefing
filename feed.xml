@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Oct 2026 07:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:31:34 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Friday 9 October 2026</title>
+      <description>Kenya Ebola contacts, South Africa anti-migrant violence, Ethiopia's new cabinet, SA gas and battery plans, AFCON appeal.</description>
+      <pubDate>Fri, 09 Oct 2026 11:31:32 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-09.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-09.mp3" length="1293453" type="audio/mpeg"/>
+      <itunes:duration>323</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Thursday 8 October 2026</title>
       <description>Eritrean troops in Tigray, Senegal's AFCON appeal at CAS, Chevron's Lotus deal in Egypt, Eskom's 6 GW renewables search, and a wider-continent round-up.</description>
