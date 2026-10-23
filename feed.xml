@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 08:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:03:25 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Friday 23 October 2026</title>
+      <description>Nefer solar financing in Egypt, Africa CDC Ebola ministerial meeting, Dangote on African capital, Nigeria venture funding, and a wider continental round-up.</description>
+      <pubDate>Fri, 23 Oct 2026 10:03:23 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-23.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-23.mp3" length="969357" type="audio/mpeg"/>
+      <itunes:duration>242</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Wednesday 21 October 2026</title>
       <description>Nigeria confirms first Ebola case; Mackenzie convicted in Kenya; Brent above 110 dollars; MNT-Halan lists in Cairo; JPMorgan nears Nigerian licence.</description>
