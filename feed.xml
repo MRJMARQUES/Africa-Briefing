@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 08:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:10:11 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Thursday 29 October 2026</title>
+      <description>Russia-Africa summit opens in Moscow, Ethiopia takes Su-35 jets, Tanzania gas find, Ebola passes 10,000 cases.</description>
+      <pubDate>Thu, 29 Oct 2026 08:10:09 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-10-29.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-10-29.mp3" length="1248237" type="audio/mpeg"/>
+      <itunes:duration>312</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Wednesday 28 October 2026</title>
       <description>Egypt shuts Mada Masr; Ebola passes 10,000 cases in DRC; Sudan strikes; US DFC ceiling raised to $205bn; Munich Re and AFC $1bn trade finance programme.</description>
