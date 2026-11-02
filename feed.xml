@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 08:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:13:06 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Monday 2 November 2026</title>
+      <description>Africa Energy Bank launches; Ghana-Russia nuclear plan; MINURSO ends; Ebola passes 5,000 deaths; Mrima Hill bids; AGOA deadline.</description>
+      <pubDate>Mon, 02 Nov 2026 10:13:05 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-02.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-02.mp3" length="1516749" type="audio/mpeg"/>
+      <itunes:duration>379</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Thursday 29 October 2026</title>
       <description>Russia-Africa summit opens in Moscow, Ethiopia takes Su-35 jets, Tanzania gas find, Ebola passes 10,000 cases.</description>
