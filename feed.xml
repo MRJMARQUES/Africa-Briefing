@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 10:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:14:53 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Tuesday 3 November 2026</title>
+      <description>AGOA exclusion of South Africa and Rwanda confirmed, Ebola toll passes 5,300, Uganda begins Somalia exit, Lissu verdict due Friday.</description>
+      <pubDate>Tue, 03 Nov 2026 08:14:52 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-03.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-03.mp3" length="1406061" type="audio/mpeg"/>
+      <itunes:duration>351</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Monday 2 November 2026</title>
       <description>Africa Energy Bank launches; Ghana-Russia nuclear plan; MINURSO ends; Ebola passes 5,000 deaths; Mrima Hill bids; AGOA deadline.</description>
