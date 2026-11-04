@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 08:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:13:07 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Wednesday 4 November 2026</title>
+      <description>SA local elections, Ethiopia-Kenya border spillover, Lukoil assets, AGOA fallout and a wider continental round-up.</description>
+      <pubDate>Wed, 04 Nov 2026 08:13:05 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-04.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-04.mp3" length="1373229" type="audio/mpeg"/>
+      <itunes:duration>343</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Tuesday 3 November 2026</title>
       <description>AGOA exclusion of South Africa and Rwanda confirmed, Ebola toll passes 5,300, Uganda begins Somalia exit, Lissu verdict due Friday.</description>
