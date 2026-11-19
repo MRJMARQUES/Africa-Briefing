@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 12:27:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:19:31 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Thursday 19 November 2026</title>
+      <description>Ethiopia-Eritrea border build-up; COP31 final stretch; Ghana's first ART TREES credits; Shell exits Daystar; ERG split; ICASA orders Starlink to cease.</description>
+      <pubDate>Thu, 19 Nov 2026 08:19:29 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-19.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-19.mp3" length="1464975" type="audio/mpeg"/>
+      <itunes:duration>486</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Week in Review - 11 to 18 November 2026</title>
       <description>Ethiopia-Eritrea border fighting, ANC-MK coalition, MTN-Telkom talks, COP31 endgame, De Beers sale, Ebola, Ghana budget and more.</description>
