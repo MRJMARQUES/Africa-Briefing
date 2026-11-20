@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 08:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:19:30 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Friday 20 November 2026</title>
+      <description>Somalia expels UAE envoy; COP31 draft drops fossil fuels; Badme strikes; Kenya picks US group for Mrima Hill; Egypt-IMF deal; SARB holds.</description>
+      <pubDate>Fri, 20 Nov 2026 10:19:29 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-20.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-20.mp3" length="1707183" type="audio/mpeg"/>
+      <itunes:duration>567</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Thursday 19 November 2026</title>
       <description>Ethiopia-Eritrea border build-up; COP31 final stretch; Ghana's first ART TREES credits; Shell exits Daystar; ERG split; ICASA orders Starlink to cease.</description>
