@@ -12,7 +12,16 @@
     <itunes:image href="https://mrjmarques.github.io/Africa-Briefing/cover.jpg"/>
     <image><url>https://mrjmarques.github.io/Africa-Briefing/cover.jpg</url><title>Africa Daily Briefing</title><link>https://mrjmarques.github.io/Africa-Briefing/</link></image>
     <atom:link href="https://mrjmarques.github.io/Africa-Briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 10:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:16:15 GMT</lastBuildDate>
+    <item>
+      <title>Africa Briefing - Monday 23 November 2026</title>
+      <description>COP31 collapses without a cover deal; Exxon takes $4bn Angola Kizomba FID; Johannesburg council sits as four-party metro pact forms; Nigeria campaign; Khartoum drone strikes.</description>
+      <pubDate>Mon, 23 Nov 2026 08:16:13 GMT</pubDate>
+      <guid isPermaLink="false">Africa-Briefing-2026-11-23.mp3</guid>
+      <enclosure url="https://mrjmarques.github.io/Africa-Briefing/Africa-Briefing-2026-11-23.mp3" length="1690413" type="audio/mpeg"/>
+      <itunes:duration>422</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Africa Briefing - Friday 20 November 2026</title>
       <description>Somalia expels UAE envoy; COP31 draft drops fossil fuels; Badme strikes; Kenya picks US group for Mrima Hill; Egypt-IMF deal; SARB holds.</description>
